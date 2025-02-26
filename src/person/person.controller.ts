@@ -1,7 +1,11 @@
 import { Controller, Get, Param, Body, Post } from '@nestjs/common';
-
-@Controller('persons')
-export class PersonsController {
+import { MessageInterface } from 'src/messageInterface';
+import { PersonRepository } from './person.repository';
+import { PersonDTO } from './person.dto';
+import { HelloService } from './hello.service';
+@Controller('person')
+export class PersonController {
+    constructor(private helloService: HelloService, private personRepo: PersonRepository) { }
     @Get('')
     getAll(): string {
         return `On vous souhaite tout le bonheur du monde <br>
@@ -78,9 +82,31 @@ Tout le bonheur du monde <br>
 Que votre soleil éclaircisse l'ombre <br>
 Qu'il brille d'amour au quotidien`;
     }
+    @Get('/greet')
+    helloWorld(): string {
+        return this.helloService.greet();
 
-    @Get('/:id')
+    }
+
+    /*@Get('/:id')
     getOne(@Param('id') id: string): string {
         return `On vous souhaite tout le bonheur du monde mais surtout à toi, ${id}`;
+    }*/
+
+    @Post('')
+    create(@Body() person: PersonDTO): string {
+        return `On vous souhaite tout le bonheur du monde mais surtout à toi, ${person.firstName}`;
+    }
+
+    @Get('/allpersons')
+    async getAllFromRepo(): Promise<MessageInterface> {
+        const persons = await this.personRepo.findAll();
+        return { message: 'All persons', data: persons };
+    }
+
+    @Post('/addperson')
+    async addPerson(@Body() personDto: PersonDTO): Promise<MessageInterface> {
+        const person = await this.personRepo.save(personDto);
+        return { message: 'Person created', data: person };
     }
 }
