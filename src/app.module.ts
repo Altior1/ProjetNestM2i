@@ -17,7 +17,10 @@ import { MongooseModule } from '@nestjs/mongoose';
       isGlobal: true,
     }),
     MongooseModule.forRoot(
-      process.env.MONGO_URI || 'mongodb://localhost:27017'
+      process.env.MONGO_URI || 'mongodb://localhost:27017',
+      {
+        authSource: "admin",
+      }
     ) // )
   ],
   controllers: [AppController],

@@ -1,7 +1,7 @@
-import { Controller, Get, Param, Body, Post } from '@nestjs/common';
+import { Controller, Get, Param, Body, Post, Put, Patch } from '@nestjs/common';
 import { MessageInterface } from 'src/messageInterface';
 import { PersonRepository } from './person.repository';
-import { PersonDTO } from './person.dto';
+import { PersonDTO, UpdatePersonDTO } from './person.dto';
 import { HelloService } from './hello.service';
 @Controller('person')
 export class PersonController {
@@ -108,5 +108,11 @@ Qu'il brille d'amour au quotidien`;
     async addPerson(@Body() personDto: PersonDTO): Promise<MessageInterface> {
         const person = await this.personRepo.save(personDto);
         return { message: 'Person created', data: person };
+    }
+
+    @Patch('/updateperson/:id')
+    async updatePerson(@Param('id') id: string, @Body() personDto: UpdatePersonDTO): Promise<MessageInterface> {
+        const person = await this.personRepo.update(id, personDto);
+        return { message: 'Person updated', data: person };
     }
 }

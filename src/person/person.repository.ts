@@ -2,7 +2,8 @@ import { Injectable } from '@nestjs/common';
 import { InjectModel } from '@nestjs/mongoose';
 import { Model } from 'mongoose';
 import { Person, PersonDocument } from './person.schema';
-import { PersonDTO } from './person.dto';
+import { PersonDTO, UpdatePersonDTO } from './person.dto';
+import { ObjectId } from 'mongodb';
 
 @Injectable()
 export class PersonRepository {
@@ -16,5 +17,14 @@ export class PersonRepository {
         await person.save();
         return person;
         // ou this.PersonModel.insertOne(personDto);
+    }
+
+    async update(id: string, personDTO: UpdatePersonDTO): Promise<PersonDocument | null> {
+        {
+            await this.PersonModel.findOneAndUpdate
+                ({ _id: new ObjectId(id) }, personDTO);
+        }
+        const updated = await this.PersonModel.findById(id);
+        return updated;
     }
 }
