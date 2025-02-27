@@ -1,4 +1,4 @@
-import { Controller, Get, Param, Body, Post, Put, Patch } from '@nestjs/common';
+import { Controller, Get, Param, Body, Post, Put, Patch, Delete } from '@nestjs/common';
 import { MessageInterface } from 'src/messageInterface';
 import { PersonRepository } from './person.repository';
 import { PersonDTO, UpdatePersonDTO } from './person.dto';
@@ -114,5 +114,17 @@ Qu'il brille d'amour au quotidien`;
     async updatePerson(@Param('id') id: string, @Body() personDto: UpdatePersonDTO): Promise<MessageInterface> {
         const person = await this.personRepo.update(id, personDto);
         return { message: 'Person updated', data: person };
+    }
+
+    @Put('/replaceperson/:id')
+    async replacePerson(@Param('id') id: string, @Body() personDto: PersonDTO): Promise<MessageInterface> {
+        const person = await this.personRepo.update(id, personDto);
+        return { message: 'Person updated', data: person };
+    }
+
+    @Delete('/deleteperson/:id')
+    async deletePerson(@Param('id') id: string): Promise<MessageInterface> {
+        const person = await this.personRepo.delete(id);
+        return { message: 'Person deleted', data: person };
     }
 }

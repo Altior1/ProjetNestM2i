@@ -19,12 +19,17 @@ export class PersonRepository {
         // ou this.PersonModel.insertOne(personDto);
     }
 
-    async update(id: string, personDTO: UpdatePersonDTO): Promise<PersonDocument | null> {
+    async update(id: string, personDTO: UpdatePersonDTO | PersonDTO): Promise<PersonDocument | null> {
         {
             await this.PersonModel.findOneAndUpdate
                 ({ _id: new ObjectId(id) }, personDTO);
         }
         const updated = await this.PersonModel.findById(id);
         return updated;
+    }
+
+    async delete(id: string): Promise<PersonDocument | null> {
+        const deleted = await this.PersonModel.findByIdAndDelete(id);
+        return deleted;
     }
 }
