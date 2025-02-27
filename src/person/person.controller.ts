@@ -127,4 +127,11 @@ Qu'il brille d'amour au quotidien`;
         const person = await this.personRepo.delete(id);
         return { message: 'Person deleted', data: person };
     }
+
+    @Get('/:id')
+    async getOne(@Param('id') id: string): Promise<MessageInterface> {
+        const person = await this.personRepo.findOne(id);
+        return { message: 'Person found', data: person };
+    }
+
 }

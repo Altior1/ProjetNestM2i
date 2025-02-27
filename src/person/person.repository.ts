@@ -32,4 +32,9 @@ export class PersonRepository {
         const deleted = await this.PersonModel.findByIdAndDelete(id);
         return deleted;
     }
+
+    async findOne(id: string): Promise<PersonDocument | null> {
+        const person = await this.PersonModel.findById(id);
+        return person;
+    }
 }

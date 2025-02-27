@@ -37,21 +37,8 @@ export class BookDTO {
     @IsNumber()
     paycount: number;
 
-    @IsDate()
-    publishedYear: Date;
-}
-
-export class BookUpdateDTO extends PartialType(BookDTO) {
-
-    @IsArray()
-    @ValidateNested({ each: true })
-    @Type(() => StringDTO)
-    genre: StringDTO[];
-
     @IsNumber()
-    publication: number;
-
-    @IsString()
-    language: string;
-
+    publishedYear: number;
 }
+
+export class UpdateBookDTO extends PartialType(BookDTO) { }

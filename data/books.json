@@ -1,0 +1,1634 @@
+[
+  {
+    "title": "Le Grand Gatsby",
+    "authors": [
+      "F. Scott Fitzgerald"
+    ],
+    "publicationYear": 1925,
+    "genres": [
+      "Fiction",
+      "Classique"
+    ],
+    "isbn": "9780743273565",
+    "pageCount": 180,
+    "publisher": "Charles Scribner's Sons",
+    "language": "Anglais"
+  },
+  {
+    "title": "Clean Code",
+    "authors": [
+      "Robert C. Martin"
+    ],
+    "publicationYear": 2008,
+    "genres": [
+      "Programmation",
+      "Développement logiciel"
+    ],
+    "isbn": "9780132350884",
+    "pageCount": 464,
+    "publisher": "Prentice Hall",
+    "language": "Anglais"
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "authors": [
+      "Andrew Hunt",
+      "David Thomas"
+    ],
+    "publicationYear": 1999,
+    "genres": [
+      "Programmation",
+      "Bonnes pratiques"
+    ],
+    "isbn": "9780201616224",
+    "pageCount": 352,
+    "publisher": "Addison-Wesley",
+    "language": "Anglais"
+  },
+  {
+    "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "authors": [
+      "Erich Gamma",
+      "Richard Helm",
+      "Ralph Johnson",
+      "John Vlissides"
+    ],
+    "publicationYear": 1994,
+    "genres": [
+      "Architecture logicielle",
+      "Programmation orientée objet"
+    ],
+    "isbn": "9780201633610",
+    "pageCount": 395,
+    "publisher": "Addison-Wesley",
+    "language": "Anglais"
+  },
+  {
+    "title": "Introduction to the Theory of Computation",
+    "authors": [
+      "Michael Sipser"
+    ],
+    "publicationYear": 1997,
+    "genres": [
+      "Théorie de l'informatique",
+      "Automates"
+    ],
+    "isbn": "9781133187790",
+    "pageCount": 504,
+    "publisher": "Cengage Learning",
+    "language": "Anglais"
+  },
+  {
+    "title": "You Don't Know JS",
+    "authors": [
+      "Kyle Simpson"
+    ],
+    "publicationYear": 2014,
+    "genres": [
+      "Programmation",
+      "JavaScript"
+    ],
+    "isbn": "9781491904244",
+    "pageCount": 278,
+    "publisher": "O'Reilly Media",
+    "language": "Anglais"
+  },
+  {
+    "title": "Database System Concepts",
+    "authors": [
+      "Abraham Silberschatz",
+      "Henry F. Korth",
+      "S. Sudarshan"
+    ],
+    "publicationYear": 2010,
+    "genres": [
+      "Bases de données",
+      "Théorie"
+    ],
+    "isbn": "9780073523323",
+    "pageCount": 1376,
+    "publisher": "McGraw-Hill",
+    "language": "Anglais"
+  },
+  {
+    "title": "SQL for Data Analysis",
+    "authors": [
+      "Cathy Tanimura"
+    ],
+    "publicationYear": 2021,
+    "genres": [
+      "Bases de données",
+      "SQL",
+      "Analyse de données"
+    ],
+    "isbn": "9781492088783",
+    "pageCount": 288,
+    "publisher": "O'Reilly Media",
+    "language": "Anglais"
+  },
+  {
+    "title": "MongoDB: The Definitive Guide",
+    "authors": [
+      "Shannon Bradshaw",
+      "Kristina Chodorow"
+    ],
+    "publicationYear": 2019,
+    "genres": [
+      "Bases de données",
+      "NoSQL",
+      "MongoDB"
+    ],
+    "isbn": "9781491954461",
+    "pageCount": 610,
+    "publisher": "O'Reilly Media",
+    "language": "Anglais"
+  },
+  {
+    "title": "High Performance MySQL",
+    "authors": [
+      "Baron Schwartz",
+      "Peter Zaitsev",
+      "Vadim Tkachenko"
+    ],
+    "publicationYear": 2012,
+    "genres": [
+      "Bases de données",
+      "SQL",
+      "Optimisation"
+    ],
+    "isbn": "9781449314286",
+    "pageCount": 828,
+    "publisher": "O'Reilly Media",
+    "language": "Anglais"
+  },
+  {
+    "title": "NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence",
+    "authors": [
+      "Pramod J. Sadalage",
+      "Martin Fowler"
+    ],
+    "publicationYear": 2012,
+    "genres": [
+      "Bases de données",
+      "NoSQL",
+      "Big Data"
+    ],
+    "isbn": "9780321826626",
+    "pageCount": 192,
+    "publisher": "Addison-Wesley",
+    "language": "Anglais"
+  },
+  {
+    "title": "Joe Celko's SQL for Smarties: Advanced SQL Programming",
+    "authors": [
+      "Joe Celko"
+    ],
+    "publicationYear": 2010,
+    "genres": [
+      "Bases de données",
+      "SQL",
+      "Programmation"
+    ],
+    "isbn": "9780123820228",
+    "pageCount": 852,
+    "publisher": "Morgan Kaufmann",
+    "language": "Anglais"
+  },
+  {
+    "title": "Joe Celko's Trees and Hierarchies in SQL for Smarties",
+    "authors": [
+      "Joe Celko"
+    ],
+    "publicationYear": 2004,
+    "genres": [
+      "Bases de données",
+      "SQL",
+      "Structures de données"
+    ],
+    "isbn": "9781558609209",
+    "pageCount": 240,
+    "publisher": "Morgan Kaufmann",
+    "language": "Anglais"
+  },
+  {
+    "title": "Joe Celko's SQL Puzzles and Answers",
+    "authors": [
+      "Joe Celko"
+    ],
+    "publicationYear": 2006,
+    "genres": [
+      "Bases de données",
+      "SQL",
+      "Énigmes"
+    ],
+    "isbn": "9780123735966",
+    "pageCount": 384,
+    "publisher": "Morgan Kaufmann",
+    "language": "Anglais"
+  },
+  {
+    "title": "Refactoring: Improving the Design of Existing Code",
+    "authors": [
+      "Martin Fowler",
+      "Kent Beck"
+    ],
+    "publicationYear": 2018,
+    "genres": [
+      "Développement logiciel",
+      "Refactoring"
+    ],
+    "isbn": "9780134757599",
+    "pageCount": 448,
+    "publisher": "Addison-Wesley",
+    "language": "Anglais"
+  },
+  {
+    "title": "Patterns of Enterprise Application Architecture",
+    "authors": [
+      "Martin Fowler"
+    ],
+    "publicationYear": 2002,
+    "genres": [
+      "Architecture logicielle",
+      "Design Patterns"
+    ],
+    "isbn": "9780321127426",
+    "pageCount": 560,
+    "publisher": "Addison-Wesley",
+    "language": "Anglais"
+  },
+  {
+    "title": "Les Misérables",
+    "authors": [
+      "Victor Hugo"
+    ],
+    "publicationYear": 1862,
+    "genres": [
+      "Roman",
+      "Drame",
+      "Historique"
+    ],
+    "isbn": "9782070409209",
+    "pageCount": 1462,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Madame Bovary",
+    "authors": [
+      "Gustave Flaubert"
+    ],
+    "publicationYear": 1857,
+    "genres": [
+      "Roman",
+      "Réalisme"
+    ],
+    "isbn": "9782070360784",
+    "pageCount": 432,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Le Rouge et le Noir",
+    "authors": [
+      "Stendhal"
+    ],
+    "publicationYear": 1830,
+    "genres": [
+      "Roman",
+      "Psychologique",
+      "Historique"
+    ],
+    "isbn": "9782253004221",
+    "pageCount": 576,
+    "publisher": "Le Livre de Poche",
+    "language": "Français"
+  },
+  {
+    "title": "Germinal",
+    "authors": [
+      "Émile Zola"
+    ],
+    "publicationYear": 1885,
+    "genres": [
+      "Roman",
+      "Naturalisme",
+      "Historique"
+    ],
+    "isbn": "9782253004900",
+    "pageCount": 592,
+    "publisher": "Le Livre de Poche",
+    "language": "Français"
+  },
+  {
+    "title": "Le Comte de Monte-Cristo",
+    "authors": [
+      "Alexandre Dumas"
+    ],
+    "publicationYear": 1844,
+    "genres": [
+      "Roman",
+      "Aventure",
+      "Historique"
+    ],
+    "isbn": "9782253009448",
+    "pageCount": 1312,
+    "publisher": "Le Livre de Poche",
+    "language": "Français"
+  },
+  {
+    "title": "Candide",
+    "authors": [
+      "Voltaire"
+    ],
+    "publicationYear": 1759,
+    "genres": [
+      "Roman",
+      "Philosophie",
+      "Satire"
+    ],
+    "isbn": "9782070360024",
+    "pageCount": 208,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Notre-Dame de Paris",
+    "authors": [
+      "Victor Hugo"
+    ],
+    "publicationYear": 1831,
+    "genres": [
+      "Roman",
+      "Historique",
+      "Drame"
+    ],
+    "isbn": "9782253004228",
+    "pageCount": 940,
+    "publisher": "Le Livre de Poche",
+    "language": "Français"
+  },
+  {
+    "title": "L'Étranger",
+    "authors": [
+      "Albert Camus"
+    ],
+    "publicationYear": 1942,
+    "genres": [
+      "Roman",
+      "Existentialisme",
+      "Philosophie"
+    ],
+    "isbn": "9782070360024",
+    "pageCount": 185,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "La Peste",
+    "authors": [
+      "Albert Camus"
+    ],
+    "publicationYear": 1947,
+    "genres": [
+      "Roman",
+      "Philosophie",
+      "Historique"
+    ],
+    "isbn": "9782070360420",
+    "pageCount": 352,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Le Père Goriot",
+    "authors": [
+      "Honoré de Balzac"
+    ],
+    "publicationYear": 1835,
+    "genres": [
+      "Roman",
+      "Réalisme"
+    ],
+    "isbn": "9782070360086",
+    "pageCount": 384,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Bel-Ami",
+    "authors": [
+      "Guy de Maupassant"
+    ],
+    "publicationYear": 1885,
+    "genres": [
+      "Roman",
+      "Réalisme"
+    ],
+    "isbn": "9782253004112",
+    "pageCount": 480,
+    "publisher": "Le Livre de Poche",
+    "language": "Français"
+  },
+  {
+    "title": "Les Fleurs du mal",
+    "authors": [
+      "Charles Baudelaire"
+    ],
+    "publicationYear": 1857,
+    "genres": [
+      "Poésie",
+      "Symbolisme"
+    ],
+    "isbn": "9782070324200",
+    "pageCount": 384,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "À la recherche du temps perdu",
+    "authors": [
+      "Marcel Proust"
+    ],
+    "publicationYear": 1913,
+    "genres": [
+      "Roman",
+      "Autobiographique"
+    ],
+    "isbn": "9782070107254",
+    "pageCount": 4215,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Jacques le Fataliste et son maître",
+    "authors": [
+      "Denis Diderot"
+    ],
+    "publicationYear": 1796,
+    "genres": [
+      "Roman",
+      "Philosophique"
+    ],
+    "isbn": "9782070323586",
+    "pageCount": 448,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Les Liaisons dangereuses",
+    "authors": [
+      "Pierre Choderlos de Laclos"
+    ],
+    "publicationYear": 1782,
+    "genres": [
+      "Roman",
+      "Épistolaire"
+    ],
+    "isbn": "9782253004938",
+    "pageCount": 512,
+    "publisher": "Le Livre de Poche",
+    "language": "Français"
+  },
+  {
+    "title": "1984",
+    "authors": [
+      "George Orwell"
+    ],
+    "publicationYear": 1949,
+    "genres": [
+      "Science-fiction",
+      "Dystopie",
+      "Politique"
+    ],
+    "isbn": "9780451524935",
+    "pageCount": 328,
+    "publisher": "Secker & Warburg",
+    "language": "Anglais"
+  },
+  {
+    "title": "Le Meilleur des mondes",
+    "authors": [
+      "Aldous Huxley"
+    ],
+    "publicationYear": 1932,
+    "genres": [
+      "Science-fiction",
+      "Dystopie"
+    ],
+    "isbn": "9782253002279",
+    "pageCount": 311,
+    "publisher": "Plon",
+    "language": "Français"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "publicationYear": 1953,
+    "genres": [
+      "Science-fiction",
+      "Dystopie"
+    ],
+    "isbn": "9782070368228",
+    "pageCount": 249,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Dune",
+    "authors": [
+      "Frank Herbert"
+    ],
+    "publicationYear": 1965,
+    "genres": [
+      "Science-fiction",
+      "Space opera"
+    ],
+    "isbn": "9780441013593",
+    "pageCount": 896,
+    "publisher": "Ace Books",
+    "language": "Anglais"
+  },
+  {
+    "title": "La Nuit des temps",
+    "authors": [
+      "René Barjavel"
+    ],
+    "publicationYear": 1968,
+    "genres": [
+      "Science-fiction",
+      "Anticipation"
+    ],
+    "isbn": "9782253004235",
+    "pageCount": 416,
+    "publisher": "Pocket",
+    "language": "Français"
+  },
+  {
+    "title": "Fondation",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "publicationYear": 1951,
+    "genres": [
+      "Science-fiction",
+      "Space opera"
+    ],
+    "isbn": "9782070360536",
+    "pageCount": 256,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Les Robots",
+    "authors": [
+      "Isaac Asimov"
+    ],
+    "publicationYear": 1950,
+    "genres": [
+      "Science-fiction",
+      "Intelligence artificielle"
+    ],
+    "isbn": "9782070363223",
+    "pageCount": 384,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Ubik",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "publicationYear": 1969,
+    "genres": [
+      "Science-fiction",
+      "Psychologique"
+    ],
+    "isbn": "9782070368228",
+    "pageCount": 288,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Les Androïdes rêvent-ils de moutons électriques ?",
+    "authors": [
+      "Philip K. Dick"
+    ],
+    "publicationYear": 1968,
+    "genres": [
+      "Science-fiction",
+      "Cyberpunk"
+    ],
+    "isbn": "9782070368075",
+    "pageCount": 256,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Hyperion",
+    "authors": [
+      "Dan Simmons"
+    ],
+    "publicationYear": 1989,
+    "genres": [
+      "Science-fiction",
+      "Space opera"
+    ],
+    "isbn": "9782070367870",
+    "pageCount": 528,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Neuromancien",
+    "authors": [
+      "William Gibson"
+    ],
+    "publicationYear": 1984,
+    "genres": [
+      "Science-fiction",
+      "Cyberpunk"
+    ],
+    "isbn": "9782070367412",
+    "pageCount": 384,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "L'Homme illustré",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "publicationYear": 1951,
+    "genres": [
+      "Science-fiction",
+      "Anticipation"
+    ],
+    "isbn": "9782070368221",
+    "pageCount": 288,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Le Cycle de Tschaï",
+    "authors": [
+      "Jack Vance"
+    ],
+    "publicationYear": 1968,
+    "genres": [
+      "Science-fiction",
+      "Aventure"
+    ],
+    "isbn": "9782070367194",
+    "pageCount": 896,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "2001 : L’Odyssée de l’espace",
+    "authors": [
+      "Arthur C. Clarke"
+    ],
+    "publicationYear": 1968,
+    "genres": [
+      "Science-fiction",
+      "Espace"
+    ],
+    "isbn": "9782070368226",
+    "pageCount": 336,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Rendez-vous avec Rama",
+    "authors": [
+      "Arthur C. Clarke"
+    ],
+    "publicationYear": 1973,
+    "genres": [
+      "Science-fiction",
+      "Exploration"
+    ],
+    "isbn": "9782070367250",
+    "pageCount": 304,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "La République",
+    "authors": [
+      "Platon"
+    ],
+    "publicationYear": -375,
+    "genres": [
+      "Philosophie",
+      "Politique"
+    ],
+    "isbn": "9782070324460",
+    "pageCount": 608,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Éthique à Nicomaque",
+    "authors": [
+      "Aristote"
+    ],
+    "publicationYear": -350,
+    "genres": [
+      "Philosophie",
+      "Éthique"
+    ],
+    "isbn": "9782253089560",
+    "pageCount": 368,
+    "publisher": "GF Flammarion",
+    "language": "Français"
+  },
+  {
+    "title": "Discours de la méthode",
+    "authors": [
+      "René Descartes"
+    ],
+    "publicationYear": 1637,
+    "genres": [
+      "Philosophie",
+      "Rationalisme"
+    ],
+    "isbn": "9782070323258",
+    "pageCount": 128,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Critique de la raison pure",
+    "authors": [
+      "Emmanuel Kant"
+    ],
+    "publicationYear": 1781,
+    "genres": [
+      "Philosophie",
+      "Métaphysique"
+    ],
+    "isbn": "9782070324842",
+    "pageCount": 1344,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Ainsi parlait Zarathoustra",
+    "authors": [
+      "Friedrich Nietzsche"
+    ],
+    "publicationYear": 1883,
+    "genres": [
+      "Philosophie",
+      "Existentialisme"
+    ],
+    "isbn": "9782070324309",
+    "pageCount": 480,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Le Contrat social",
+    "authors": [
+      "Jean-Jacques Rousseau"
+    ],
+    "publicationYear": 1762,
+    "genres": [
+      "Philosophie",
+      "Politique"
+    ],
+    "isbn": "9782070408504",
+    "pageCount": 256,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Méditations métaphysiques",
+    "authors": [
+      "René Descartes"
+    ],
+    "publicationYear": 1641,
+    "genres": [
+      "Philosophie",
+      "Métaphysique"
+    ],
+    "isbn": "9782070409235",
+    "pageCount": 192,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "L'Être et le Néant",
+    "authors": [
+      "Jean-Paul Sartre"
+    ],
+    "publicationYear": 1943,
+    "genres": [
+      "Philosophie",
+      "Existentialisme"
+    ],
+    "isbn": "9782070324309",
+    "pageCount": 784,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Le Banquet",
+    "authors": [
+      "Platon"
+    ],
+    "publicationYear": -385,
+    "genres": [
+      "Philosophie",
+      "Éthique"
+    ],
+    "isbn": "9782070324897",
+    "pageCount": 192,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Léviathan",
+    "authors": [
+      "Thomas Hobbes"
+    ],
+    "publicationYear": 1651,
+    "genres": [
+      "Philosophie",
+      "Politique"
+    ],
+    "isbn": "9782070324767",
+    "pageCount": 752,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "La Richesse des nations",
+    "authors": [
+      "Adam Smith"
+    ],
+    "publicationYear": 1776,
+    "genres": [
+      "Économie",
+      "Libéralisme"
+    ],
+    "isbn": "9782080711894",
+    "pageCount": 1200,
+    "publisher": "Flammarion",
+    "language": "Français"
+  },
+  {
+    "title": "Le Capital",
+    "authors": [
+      "Karl Marx"
+    ],
+    "publicationYear": 1867,
+    "genres": [
+      "Économie",
+      "Marxisme"
+    ],
+    "isbn": "9782251442961",
+    "pageCount": 1200,
+    "publisher": "Les Éditions sociales",
+    "language": "Français"
+  },
+  {
+    "title": "Théorie générale de l'emploi, de l'intérêt et de la monnaie",
+    "authors": [
+      "John Maynard Keynes"
+    ],
+    "publicationYear": 1936,
+    "genres": [
+      "Économie",
+      "Macroeconomie"
+    ],
+    "isbn": "9782070325863",
+    "pageCount": 528,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Capitalisme et liberté",
+    "authors": [
+      "Milton Friedman"
+    ],
+    "publicationYear": 1962,
+    "genres": [
+      "Économie",
+      "Libéralisme"
+    ],
+    "isbn": "9782070326891",
+    "pageCount": 272,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "L'Esprit du capitalisme",
+    "authors": [
+      "Max Weber"
+    ],
+    "publicationYear": 1905,
+    "genres": [
+      "Économie",
+      "Sociologie"
+    ],
+    "isbn": "9782070327416",
+    "pageCount": 480,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Les Fleurs du mal",
+    "authors": [
+      "Charles Baudelaire"
+    ],
+    "publicationYear": 1857,
+    "genres": [
+      "Poésie",
+      "Symbolisme"
+    ],
+    "isbn": "9782070324200",
+    "pageCount": 384,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Divine Comédie",
+    "authors": [
+      "Dante Alighieri"
+    ],
+    "publicationYear": 1321,
+    "genres": [
+      "Poésie",
+      "Épopée"
+    ],
+    "isbn": "9782253004228",
+    "pageCount": 792,
+    "publisher": "Le Livre de Poche",
+    "language": "Italien"
+  },
+  {
+    "title": "Le Cantique des cantiques",
+    "authors": [
+      "Anonyme"
+    ],
+    "publicationYear": -500,
+    "genres": [
+      "Poésie",
+      "Religieux"
+    ],
+    "isbn": "9782070364259",
+    "pageCount": 96,
+    "publisher": "Gallimard",
+    "language": "Hébreu"
+  },
+  {
+    "title": "Les Sonnets",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "publicationYear": 1609,
+    "genres": [
+      "Poésie",
+      "Sonnet"
+    ],
+    "isbn": "9782070367403",
+    "pageCount": 224,
+    "publisher": "Gallimard",
+    "language": "Anglais"
+  },
+  {
+    "title": "Le Spleen de Paris",
+    "authors": [
+      "Charles Baudelaire"
+    ],
+    "publicationYear": 1869,
+    "genres": [
+      "Poésie",
+      "Prose"
+    ],
+    "isbn": "9782070324404",
+    "pageCount": 176,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "L’Iliade",
+    "authors": [
+      "Homère"
+    ],
+    "publicationYear": -800,
+    "genres": [
+      "Poésie",
+      "Épopée"
+    ],
+    "isbn": "9782253004235",
+    "pageCount": 704,
+    "publisher": "Le Livre de Poche",
+    "language": "Grec ancien"
+  },
+  {
+    "title": "L’Odyssée",
+    "authors": [
+      "Homère"
+    ],
+    "publicationYear": -800,
+    "genres": [
+      "Poésie",
+      "Épopée"
+    ],
+    "isbn": "9782253004938",
+    "pageCount": 560,
+    "publisher": "Le Livre de Poche",
+    "language": "Grec ancien"
+  },
+  {
+    "title": "Leaves of Grass",
+    "authors": [
+      "Walt Whitman"
+    ],
+    "publicationYear": 1855,
+    "genres": [
+      "Poésie",
+      "Libre"
+    ],
+    "isbn": "9782070367412",
+    "pageCount": 456,
+    "publisher": "Gallimard",
+    "language": "Anglais"
+  },
+  {
+    "title": "Le Bateau ivre",
+    "authors": [
+      "Arthur Rimbaud"
+    ],
+    "publicationYear": 1871,
+    "genres": [
+      "Poésie",
+      "Symbolisme"
+    ],
+    "isbn": "9782070368228",
+    "pageCount": 128,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Poèmes",
+    "authors": [
+      "Pablo Neruda"
+    ],
+    "publicationYear": 1924,
+    "genres": [
+      "Poésie",
+      "Amour"
+    ],
+    "isbn": "9782070367078",
+    "pageCount": 320,
+    "publisher": "Gallimard",
+    "language": "Espagnol"
+  },
+  {
+    "title": "Poèmes de l’âme",
+    "authors": [
+      "Rainer Maria Rilke"
+    ],
+    "publicationYear": 1905,
+    "genres": [
+      "Poésie",
+      "Lyrique"
+    ],
+    "isbn": "9782070327386",
+    "pageCount": 288,
+    "publisher": "Gallimard",
+    "language": "Allemand"
+  },
+  {
+    "title": "Poèmes de Kabîr",
+    "authors": [
+      "Kabîr"
+    ],
+    "publicationYear": 1450,
+    "genres": [
+      "Poésie",
+      "Mysticisme"
+    ],
+    "isbn": "9782070365012",
+    "pageCount": 224,
+    "publisher": "Gallimard",
+    "language": "Hindi"
+  },
+  {
+    "title": "Haikus",
+    "authors": [
+      "Matsuo Bashō"
+    ],
+    "publicationYear": 1680,
+    "genres": [
+      "Poésie",
+      "Haïku"
+    ],
+    "isbn": "9782070368204",
+    "pageCount": 144,
+    "publisher": "Gallimard",
+    "language": "Japonais"
+  },
+  {
+    "title": "Les Chants de Maldoror",
+    "authors": [
+      "Lautréamont"
+    ],
+    "publicationYear": 1869,
+    "genres": [
+      "Poésie",
+      "Surréalisme"
+    ],
+    "isbn": "9782070368400",
+    "pageCount": 392,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Canti",
+    "authors": [
+      "Giacomo Leopardi"
+    ],
+    "publicationYear": 1835,
+    "genres": [
+      "Poésie",
+      "Romantisme"
+    ],
+    "isbn": "9782070368417",
+    "pageCount": 320,
+    "publisher": "Gallimard",
+    "language": "Italien"
+  },
+  {
+    "title": "Eugene Onegin",
+    "authors": [
+      "Alexandre Pouchkine"
+    ],
+    "publicationYear": 1833,
+    "genres": [
+      "Poésie",
+      "Roman en vers"
+    ],
+    "isbn": "9782070368424",
+    "pageCount": 416,
+    "publisher": "Gallimard",
+    "language": "Russe"
+  },
+  {
+    "title": "Savitri",
+    "authors": [
+      "Sri Aurobindo"
+    ],
+    "publicationYear": 1950,
+    "genres": [
+      "Poésie",
+      "Épopée mystique"
+    ],
+    "isbn": "9782070368431",
+    "pageCount": 816,
+    "publisher": "Gallimard",
+    "language": "Anglais"
+  },
+  {
+    "title": "Les Chants d’innocence et d’expérience",
+    "authors": [
+      "William Blake"
+    ],
+    "publicationYear": 1794,
+    "genres": [
+      "Poésie",
+      "Romantisme"
+    ],
+    "isbn": "9782070368448",
+    "pageCount": 256,
+    "publisher": "Gallimard",
+    "language": "Anglais"
+  },
+  {
+    "title": "Le Livre de l’intranquillité",
+    "authors": [
+      "Fernando Pessoa"
+    ],
+    "publicationYear": 1982,
+    "genres": [
+      "Poésie",
+      "Philosophique"
+    ],
+    "isbn": "9782070368455",
+    "pageCount": 544,
+    "publisher": "Gallimard",
+    "language": "Portugais"
+  },
+  {
+    "title": "L'Aveuglement",
+    "authors": [
+      "José Saramago"
+    ],
+    "publicationYear": 1995,
+    "genres": [
+      "Roman",
+      "Dystopie"
+    ],
+    "isbn": "9782070409325",
+    "pageCount": 432,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Le Dieu manchot",
+    "authors": [
+      "José Saramago"
+    ],
+    "publicationYear": 1982,
+    "genres": [
+      "Roman",
+      "Histoire"
+    ],
+    "isbn": "9782070404337",
+    "pageCount": 576,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "L'Autre comme moi",
+    "authors": [
+      "José Saramago"
+    ],
+    "publicationYear": 2002,
+    "genres": [
+      "Roman",
+      "Psychologie"
+    ],
+    "isbn": "9782070408304",
+    "pageCount": 352,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Poems",
+    "authors": [
+      "Emily Dickinson"
+    ],
+    "publicationYear": 1890,
+    "genres": [
+      "Poésie",
+      "Lyrisme"
+    ],
+    "isbn": "9782070414329",
+    "pageCount": 240,
+    "publisher": "Gallimard",
+    "language": "Anglais"
+  },
+  {
+    "title": "Final Harvest",
+    "authors": [
+      "Emily Dickinson"
+    ],
+    "publicationYear": 1955,
+    "genres": [
+      "Poésie",
+      "Anthologie"
+    ],
+    "isbn": "9782070415302",
+    "pageCount": 300,
+    "publisher": "Gallimard",
+    "language": "Anglais"
+  },
+  {
+    "title": "Le Portrait de Dorian Gray",
+    "authors": [
+      "Oscar Wilde"
+    ],
+    "publicationYear": 1890,
+    "genres": [
+      "Roman",
+      "Fantastique"
+    ],
+    "isbn": "9782253004270",
+    "pageCount": 432,
+    "publisher": "Le Livre de Poche",
+    "language": "Français"
+  },
+  {
+    "title": "De profundis",
+    "authors": [
+      "Oscar Wilde"
+    ],
+    "publicationYear": 1905,
+    "genres": [
+      "Lettre",
+      "Biographie"
+    ],
+    "isbn": "9782070415303",
+    "pageCount": 128,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Les Impatientes",
+    "authors": [
+      "Djaïli Amadou Amal"
+    ],
+    "publicationYear": 2020,
+    "genres": [
+      "Roman",
+      "Féminisme"
+    ],
+    "isbn": "9782253103478",
+    "pageCount": 240,
+    "publisher": "Julliard",
+    "language": "Français"
+  },
+  {
+    "title": "Americanah",
+    "authors": [
+      "Chimamanda Ngozi Adichie"
+    ],
+    "publicationYear": 2013,
+    "genres": [
+      "Roman",
+      "Identité culturelle"
+    ],
+    "isbn": "9780007356348",
+    "pageCount": 477,
+    "publisher": "Fourth Estate",
+    "language": "Anglais"
+  },
+  {
+    "title": "Le Mur invisible",
+    "authors": [
+      "Marlen Haushofer"
+    ],
+    "publicationYear": 1963,
+    "genres": [
+      "Roman",
+      "Dystopie"
+    ],
+    "isbn": "9782070323322",
+    "pageCount": 336,
+    "publisher": "Gallimard",
+    "language": "Allemand"
+  },
+  {
+    "title": "La Servante écarlate",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "publicationYear": 1985,
+    "genres": [
+      "Roman",
+      "Dystopie"
+    ],
+    "isbn": "9782253103478",
+    "pageCount": 528,
+    "publisher": "Robert Laffont",
+    "language": "Anglais"
+  },
+  {
+    "title": "Voyage au bout de la solitude",
+    "authors": [
+      "Cheryl Strayed"
+    ],
+    "publicationYear": 2012,
+    "genres": [
+      "Autobiographie",
+      "Aventure"
+    ],
+    "isbn": "9782081333835",
+    "pageCount": 480,
+    "publisher": "Arthaud",
+    "language": "Anglais"
+  },
+  {
+    "title": "Une si longue lettre",
+    "authors": [
+      "Mariama Bâ"
+    ],
+    "publicationYear": 1979,
+    "genres": [
+      "Roman",
+      "Féminisme"
+    ],
+    "isbn": "9782842612893",
+    "pageCount": 130,
+    "publisher": "NEA",
+    "language": "Français"
+  },
+  {
+    "title": "Ne tirez pas sur l'oiseau moqueur",
+    "authors": [
+      "Harper Lee"
+    ],
+    "publicationYear": 1960,
+    "genres": [
+      "Roman",
+      "Droits civiques"
+    ],
+    "isbn": "9782253009473",
+    "pageCount": 384,
+    "publisher": "Le Livre de Poche",
+    "language": "Anglais"
+  },
+  {
+    "title": "Pachinko",
+    "authors": [
+      "Min Jin Lee"
+    ],
+    "publicationYear": 2017,
+    "genres": [
+      "Roman",
+      "Historique"
+    ],
+    "isbn": "9781455563920",
+    "pageCount": 496,
+    "publisher": "Grand Central Publishing",
+    "language": "Anglais"
+  },
+  {
+    "title": "La Maison aux esprits",
+    "authors": [
+      "Isabel Allende"
+    ],
+    "publicationYear": 1982,
+    "genres": [
+      "Roman",
+      "Réalisme magique"
+    ],
+    "isbn": "9782253056637",
+    "pageCount": 544,
+    "publisher": "Seuil",
+    "language": "Espagnol"
+  },
+  {
+    "title": "Le Palais des illusions",
+    "authors": [
+      "Chitra Banerjee Divakaruni"
+    ],
+    "publicationYear": 2008,
+    "genres": [
+      "Roman",
+      "Mythologie"
+    ],
+    "isbn": "9788184001204",
+    "pageCount": 360,
+    "publisher": "Penguin India",
+    "language": "Anglais"
+  },
+  {
+    "title": "Mon enfant de Berlin",
+    "authors": [
+      "Anne Wiazemsky"
+    ],
+    "publicationYear": 2009,
+    "genres": [
+      "Roman",
+      "Historique"
+    ],
+    "isbn": "9782070455108",
+    "pageCount": 208,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Braises",
+    "authors": [
+      "Katherine Mansfield"
+    ],
+    "publicationYear": 1923,
+    "genres": [
+      "Nouvelles",
+      "Modernisme"
+    ],
+    "isbn": "9782070436541",
+    "pageCount": 272,
+    "publisher": "Gallimard",
+    "language": "Anglais"
+  },
+  {
+    "title": "Lait et miel",
+    "authors": [
+      "Rupi Kaur"
+    ],
+    "publicationYear": 2014,
+    "genres": [
+      "Poésie",
+      "Féminisme"
+    ],
+    "isbn": "9781449496364",
+    "pageCount": 208,
+    "publisher": "Andrews McMeel Publishing",
+    "language": "Anglais"
+  },
+  {
+    "title": "Terre des oublis",
+    "authors": [
+      "Duong Thu Huong"
+    ],
+    "publicationYear": 2006,
+    "genres": [
+      "Roman",
+      "Guerre du Vietnam"
+    ],
+    "isbn": "9782070771499",
+    "pageCount": 720,
+    "publisher": "Sabine Wespieser Éditeur",
+    "language": "Vietnamien"
+  },
+  {
+    "title": "Cher connard",
+    "authors": [
+      "Virginie Despentes"
+    ],
+    "publicationYear": 2022,
+    "genres": [
+      "Roman",
+      "Satire"
+    ],
+    "isbn": "9782072993714",
+    "pageCount": 400,
+    "publisher": "Grasset",
+    "language": "Français"
+  },
+  {
+    "title": "La Maladie de la mort",
+    "authors": [
+      "Marguerite Duras"
+    ],
+    "publicationYear": 1982,
+    "genres": [
+      "Roman",
+      "Expérimental"
+    ],
+    "isbn": "9782707306956",
+    "pageCount": 56,
+    "publisher": "Éditions de Minuit",
+    "language": "Français"
+  },
+  {
+    "title": "Le Jardin secret",
+    "authors": [
+      "Frances Hodgson Burnett"
+    ],
+    "publicationYear": 1911,
+    "genres": [
+      "Roman",
+      "Jeunesse"
+    ],
+    "isbn": "9782070624824",
+    "pageCount": 320,
+    "publisher": "Gallimard Jeunesse",
+    "language": "Anglais"
+  },
+  {
+    "title": "Le Pays des autres",
+    "authors": [
+      "Leïla Slimani"
+    ],
+    "publicationYear": 2020,
+    "genres": [
+      "Roman",
+      "Historique"
+    ],
+    "isbn": "9782072924342",
+    "pageCount": 368,
+    "publisher": "Gallimard",
+    "language": "Français"
+  },
+  {
+    "title": "Quand le requin dort",
+    "authors": [
+      "Milena Agus"
+    ],
+    "publicationYear": 2005,
+    "genres": [
+      "Roman",
+      "Intimiste"
+    ],
+    "isbn": "9782253119424",
+    "pageCount": 160,
+    "publisher": "Seuil",
+    "language": "Italien"
+  },
+  {
+    "title": "La Porte",
+    "authors": [
+      "Magda Szabó"
+    ],
+    "publicationYear": 1987,
+    "genres": [
+      "Roman",
+      "Psychologie"
+    ],
+    "isbn": "9782070415989",
+    "pageCount": 288,
+    "publisher": "Gallimard",
+    "language": "Hongrois"
+  }
+]
