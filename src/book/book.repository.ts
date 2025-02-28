@@ -22,8 +22,11 @@ export class BookRepository {
         return this.BookModel.findById(id);
     }
 
-    async update(id: ObjectId, updateBookDTO: UpdateBookDTO): Promise<Book | null> {
+    async update(id: string, updateBookDTO: UpdateBookDTO): Promise<Book | null> {
         return this.BookModel.findByIdAndUpdate
             (id, updateBookDTO, { new: true });
+    }
+    async delete(id: string): Promise<Book | null> {
+        return this.BookModel.findByIdAndDelete(id);
     }
 }

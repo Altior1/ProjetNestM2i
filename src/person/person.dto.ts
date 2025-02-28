@@ -1,6 +1,6 @@
-import { IsEmail, IsNotEmpty, IsNumber, IsString, MinLength } from 'class-validator';
+import { IsEmail, IsNotEmpty, IsNumber, IsOptional, IsString, MinLength } from 'class-validator';
 import { PartialType } from '@nestjs/mapped-types';
-
+import { Address } from './person.schema';
 
 export class PersonDTO {
     @IsString()
@@ -15,6 +15,9 @@ export class PersonDTO {
 
     @IsEmail()
     email: string;
+
+    @IsOptional()
+    address: Address;
 }
 
 // person.dto.ts

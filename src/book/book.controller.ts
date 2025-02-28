@@ -24,18 +24,26 @@ export class BookController {
     }
 
     @Get('/:id')
-    getOne(@Param('id') id: string): MessageInterface {
-        const book = this.BookRepository.findOne(id);
-        return { message: 'Book found', data: id };
+    async getOne(@Param('id') id: string): Promise<MessageInterface> {
+        const book = await this.BookRepository.findOne(id);
+        return { message: 'Book found', data: book };
     }
 
     @Post('')
-    create(@Body() book: any): MessageInterface {
-        return { message: 'Book created', data: book };
+    async create(@Body() book: any): Promise<MessageInterface> {
+        const bookrespons = await this.BookRepository.create(book);
+        return { message: 'Book created', data: bookrespons };
     }
 
     @Patch('/updatebook/:id')
-    updateBook(@Param('id') id: string, @Body() book: any): MessageInterface {
-        return { message: 'Book updated', data: book };
+    async updateBook(@Param('id') id: string, @Body() book: any): Promise<MessageInterface> {
+        const bookrespons = await this.BookRepository.update(id, book);
+        return { message: 'Book updated', data: bookrespons };
+    }
+
+    @Delete('/deletebook/:id')
+    async deleteBook(@Param('id') id: string): Promise<MessageInterface> {
+        const bookrespons = await this.BookRepository.delete(id);
+        return { message: 'Book deleted', data: bookrespons };
     }
 }
